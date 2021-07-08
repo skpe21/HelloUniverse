@@ -1,8 +1,8 @@
 # HelloUniverse
 
-##exploring basic functions in ethereum
+## exploring basic functions in ethereum
 
-###Basic Functions
+### Basic Functions
 
     1. Returns some text with your name (and msg.sender)
     2.
